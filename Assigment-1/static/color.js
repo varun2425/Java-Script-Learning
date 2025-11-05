@@ -20,3 +20,13 @@ function Display6(){
     let input =document.getElementById("six")
     input.value=input.value.toUpperCase()
 }
+function password(){
+    let enteredtext= document.getElementById("login").value
+    let pass = "password"
+   if(enteredtext == pass){
+    alert('login succues')
+   }
+   else{
+    alert('Incorrect Password')
+   }
+}
