@@ -6,4 +6,4 @@ setInterval(()=>{
 
 //let ct=new Date().toLocaleDateString ()
 //document.getElementsByTagName('p')[0].innerHTML=ct;
-//document.getElementsByTagName('p')[0]
+//document.getElementsByTagName('p')[0].innerHTML="GM"
